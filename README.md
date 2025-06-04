@@ -1,4 +1,4 @@
-# Artcle Recommendation Engine
+# Article Recommendation Engine
 
 ## What is this
 I'm trying to learn Rust and basics of Data Engineering. I asked Gemini to help generate a simple project plan to help me learn.
