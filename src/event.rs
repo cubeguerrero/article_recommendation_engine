@@ -61,7 +61,10 @@ mod tests {
         let event = Event::from_csv_record(&record).unwrap();
         assert_eq!(event.user_id, "user123");
         assert_eq!(event.article_id, "article456");
-        assert_eq!(event.timestamp, chrono::Utc.ymd(2025, 5, 30).and_hms(12, 34, 56));
+        assert_eq!(
+            event.timestamp,
+            chrono::Utc.with_ymd_and_hms(2025, 5, 30, 12, 34, 56).single().unwrap()
+        );
         assert_eq!(event.event_type, EventType::View);
     }
 
