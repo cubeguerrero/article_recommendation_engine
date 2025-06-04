@@ -1,0 +1,25 @@
+{"user_id": "user_123", "article_id": "article_A001", "timestamp": "2025-05-30T08:00:05Z", "event_type": "view"}
+{"user_id": "user_456", "article_id": "article_B002", "timestamp": "2025-05-30T08:01:10Z", "event_type": "view"}
+{"user_id": "user_123", "article_id": "article_C003", "timestamp": "2025-05-30T08:05:20Z", "event_type": "view"}
+{"user_id": "user_789", "article_id": "article_A001", "timestamp": "2025-05-30T08:10:00Z", "event_type": "view"}
+{"user_id": "user_456", "article_id": "article_A001", "timestamp": "2025-05-30T08:15:30Z", "event_type": "view"}
+{"user_id": "user_101", "article_id": "article_B002", "timestamp": "2025-05-30T08:20:45Z", "event_type": "view"}
+{"user_id": "user_123", "article_id": "article_D004", "timestamp": "2025-05-30T08:25:00Z", "event_type": "like"}
+{"user_id": "user_789", "article_id": "article_C003", "timestamp": "2025-05-30T09:00:15Z", "event_type": "view"}
+{"user_id": "user_456", "article_id": "article_C003", "timestamp": "2025-05-30T09:05:00Z", "event_type": "view"}
+{"user_id": "user_101", "article_id": "article_A001", "timestamp": "2025-05-30T09:10:25Z", "event_type": "view"}
+{"user_id": "user_202", "article_id": "article_E005", "timestamp": "2025-05-30T09:15:00Z", "event_type": "view"}
+{"user_id": "user_123", "article_id": "article_A001", "timestamp": "2025-05-30T09:20:30Z", "event_type": "view"}
+{"user_id": "user_789", "article_id": "article_B002", "timestamp": "2025-05-30T09:25:40Z", "event_type": "view"}
+{"user_id": "user_456", "article_id": "article_A001", "timestamp": "2025-05-30T09:30:00Z", "event_type": "view"}
+{"user_id": "user_101", "article_id": "article_C003", "timestamp": "2025-05-30T09:35:10Z", "event_type": "view"}
+{"user_id": "user_202", "article_id": "article_A001", "timestamp": "2025-05-30T10:00:00Z", "event_type": "view"}
+{"user_id": "user_123", "article_id": "article_E005", "timestamp": "2025-05-30T10:05:05Z", "event_type": "view"}
+{"user_id": "user_789", "article_id": "article_D004", "timestamp": "2025-05-30T10:10:15Z", "event_type": "view"}
+{"user_id": "user_456", "article_id": "article_B002", "timestamp": "2025-05-30T10:15:20Z", "event_type": "view"}
+{"user_101", "article_id": "article_A001", "timestamp": "2025-05-30T10:20:30Z", "event_type": "view"}
+{"user_202", "article_id": "article_C003", "timestamp": "2025-05-30T10:25:40Z", "event_type": "view"}
+{"user_123", "article_id": "article_B002", "timestamp": "2025-05-30T10:30:50Z", "event_type": "view"}
+{"user_789", "article_id": "article_A001", "timestamp": "2025-05-30T10:35:00Z", "event_type": "view"}
+{"user_456", "article_id": "article_E005", "timestamp": "2025-05-30T10:40:10Z", "event_type": "view"}
+{"user_101", "article_id": "article_D004", "timestamp": "2025-05-30T10:45:20Z", "event_type": "share"}
